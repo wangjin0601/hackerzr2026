@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 本地敏感数据（客户信息、原始资料等），禁止提交
+data/private/
